@@ -6,10 +6,10 @@ public class MainofProblems {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
-		Problem10 p10=new Problem10();
+		Prob14Collatzsequence  p10=new Prob14Collatzsequence ();
 //		System.out.print("Enter a number");
 	//int n=s.nextInt();
-		p10.primenums();
+		p10.seq();
 		
 		
 
