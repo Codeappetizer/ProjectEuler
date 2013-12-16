@@ -15,4 +15,7 @@ public class Problem6 {
 	   return diff;
 	}
 
+ 
+ 
 }
+
